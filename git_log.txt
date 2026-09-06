@@ -1,0 +1,45 @@
+commit bfd1e454e120f5a7f9dc23cfd8806044b57b6abd
+Merge: 31a5ef2 591cdc0
+Author: 0marT0 <omartorres382@gmail.com>
+Date:   Sat Sep 5 21:42:24 2026 -0700
+
+    Resolve merge conflict between main and index-fix
+
+commit 591cdc0dd0d445f513f916b8f953d149085a2c71
+Author: 0marT0 <omartorres382@gmail.com>
+Date:   Sat Sep 5 21:37:24 2026 -0700
+
+    Add favorite game div on index-fix
+
+commit 31a5ef2df98823373361268c5f5719cb803bbdf5
+Author: 0marT0 <omartorres382@gmail.com>
+Date:   Sat Sep 5 17:47:06 2026 -0700
+
+    Add favorite food div on main
+
+commit b72001c3c8616b2bd1d42578984e9c6abd3995e4
+Author: 0marT0 <omartorres382@gmail.com>
+Date:   Sat Sep 5 17:40:05 2026 -0700
+
+    Add README description
+
+commit 82ffa9bc1fc13c6e2869168cc88bdeaaec93f767
+Merge: 1d2bfc0 50fcd4a
+Author: 0marT0 <86998528+0marT0@users.noreply.github.com>
+Date:   Sat Sep 5 14:38:08 2026 -0700
+
+    Merge pull request #1 from 0marT0/info-fill
+    
+    Fill in name and hobby in index.html
+
+commit 50fcd4aa18147b216dfa80cd662a5187c36a25ac
+Author: 0marT0 <omartorres382@gmail.com>
+Date:   Sat Sep 5 14:26:10 2026 -0700
+
+    Fill in name and hobby in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
